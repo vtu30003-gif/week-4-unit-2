@@ -45,7 +45,7 @@ A single string $s$ that represents a time in $12$-hour clock format (i.e.: $\te
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-10T06:58:17.499Z  
+**Submitted:** 2026-09-10T06:58:28.113Z  
 
 ```java
 import java.io.*;
