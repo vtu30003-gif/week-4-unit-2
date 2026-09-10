@@ -45,8 +45,8 @@ All elements are distinct.
 
 **Language:** Java  
 **Runtime:** 13 ms (beats 98.75%)  
-**Memory:** 108.8 MB (beats 17.21%)  
-**Submitted:** 2026-09-10T06:28:19.089Z  
+**Memory:** 106.3 MB (beats 73.87%)  
+**Submitted:** 2026-09-10T06:48:18.607Z  
 
 ```java
 import java.util.HashSet;
