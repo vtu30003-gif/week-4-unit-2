@@ -63,6 +63,7 @@
 | [0217-contains-duplicate](https://github.com/vtu30003-gif/week-4-unit-2/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu30003-gif/week-4-unit-2/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/vtu30003-gif/week-4-unit-2/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/vtu30003-gif/week-4-unit-2/tree/master/1314-matrix-block-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,8 +80,13 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu30003-gif/week-4-unit-2/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/vtu30003-gif/week-4-unit-2/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu30003-gif/week-4-unit-2/tree/master/0867-transpose-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/vtu30003-gif/week-4-unit-2/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
